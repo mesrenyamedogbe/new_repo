@@ -1,2 +1,4 @@
 # new_repo
-This is my refresher session on GitHub.
+## Section 1
+This is my refresher session on GitHub. <br>
+This is the second line
